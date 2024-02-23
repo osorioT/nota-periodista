@@ -33,7 +33,7 @@
       display: inline-block;
       margin: 0 auto; /* Esto centrará la imagen horizontalmente */
     }
-    </style>
+</style>
 
 
 </head>
